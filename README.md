@@ -2,7 +2,7 @@
 
 A modern implementation of the classic Brick Breaker game with local two-player split-screen multiplayer support, built using PyGame.
 
-![Brick Breaker Multiplayer](https://github.com/saishk237/Brick-Breaker-Game/blob/main/screenshots/gamestart.png)
+![Brick Breaker Multiplayer](https://github.com/saishk237/Brick-Breaker-Game/raw/main/screenshots/gamestart.png)
 
 ## Features
 
